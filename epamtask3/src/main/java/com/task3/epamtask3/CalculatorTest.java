@@ -16,7 +16,7 @@ public class CalculatorTest
 	@Test
 	public void testsub()
 	{
-		assertEquals(70,oc.sub(240,160));
+		assertEquals(80,oc.sub(240,160));
 	}
 	@Test
 	public void testmul()
